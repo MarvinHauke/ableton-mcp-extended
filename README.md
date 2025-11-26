@@ -32,7 +32,7 @@ This project provides comprehensive, programmatic control over the Ableton Live 
 * **Session and Transport Control:**
     * Start and stop playback.
     * Get session info, including tempo, time signature, and track count.
-    * Manage scenes: create, delete, rename, and fire.
+    * Set tempo and control transport.
 
 * **Track Management:**
     * Create, rename, and get detailed information for MIDI and audio tracks.
