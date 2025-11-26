@@ -58,4 +58,4 @@ jobs:
 
       - name: Verify installation
         run: |
-          python -c "from MCP_Server.server import AbletonConnection; print('✅ Package installed successfully')"
+          python -c "from MCP_Server.server import AbletonConnection; print('Package installed successfully')"
