@@ -49,3 +49,4 @@ site/
 # Development config
 .mcp.json
 .serena/
+.gemini/
